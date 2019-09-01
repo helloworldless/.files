@@ -8,6 +8,10 @@
 # Build artifacts
 target/
 
+# Gradle
+.gradle
+build
+
 # Compile Java classes
 *.class
 
